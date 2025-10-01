@@ -6,7 +6,7 @@ The goal of this project was to practice Excel functions and chart creation whil
 I used formulas like:  
 - *SUMIF / COUNTIF* for aggregation  
 - *Charts (Pie, Column, Bar)* for visualization
-- 
+  
 ## 📈 Visualizations & Insights  
 1. *Sales by Region*  
    - East leads with *7,690* in sales.  
