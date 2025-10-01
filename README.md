@@ -23,13 +23,13 @@ I used formulas like:
 
 ## 📸 Chart Previews  
 ### Sales by Region  
-![Sales by Region](excel1_sales%20by%20region.png)  
+![Sales by Region](excel1_sales%20by%20region.PNG)  
 
 ### Orders by Segment  
-![Orders by Segment](excel2_orders%20by%20segment.png)  
+![Orders by Segment](excel2_orders%20by%20segment.PNG)  
 
 ### Sales by Product Category  
-![Sales by Product Category](excel3_sales%20by%20product%20category.png)
+![Sales by Product Category](excel3_sales%20by%20product%20category.PNG)
 
 ## 🚀 Learning Outcomes  
 - Practiced Excel functions (SUMIF, COUNTIF)  
